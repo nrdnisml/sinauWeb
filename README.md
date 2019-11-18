@@ -1,2 +1,0 @@
-# sinauWeb
-kumpulan sinau web
